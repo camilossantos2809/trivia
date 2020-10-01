@@ -53,7 +53,7 @@
             android:name="numQuestions"
             app:argType="integer" />
         <argument
-            android:name="numCorret"
+            android:name="numCorrect"
             app:argType="integer" />
     </fragment>
     <fragment
